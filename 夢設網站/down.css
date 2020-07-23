@@ -1,0 +1,20 @@
+body{
+	background-color: #ffffa8;
+}
+
+.kazu{
+	position:absolute;
+	right: 0px;
+	top: -45px;
+}
+
+.wei{
+	position:absolute;
+	left: 0px;
+}
+
+.con{
+	position:absolute;
+	left: 230px;
+	top: 20px;
+}

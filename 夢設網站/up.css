@@ -1,0 +1,21 @@
+.breadcrumb{
+	margin-bottom: 0px;
+	background-color: #c5afdb;
+}
+
+.breadcrumb-item{
+	margin-left: 180px;
+	font-size: 20px;
+}
+
+a:link{
+	text-align: center;
+  	color: #ffffff;
+  	font-family: fantasy;
+  	font-weight: bold;
+}
+
+.music{
+	height: 35px;
+	margin-left: 180px; 
+}
